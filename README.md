@@ -3,7 +3,7 @@
   This organization will serve as an attempt to archive every single open-source Fortnite project, as well as have the best Discord bot for Fortnite modding communities, with features specifically made for those types of servers.
   <br />
   <br />
-  If you would like to add any projects, whether they be your own or someone else's, go check out the archive's README file <a href="https://github.com/ProjectPeriodic/ThePeriodicArchive/README.md">here.</a>
+  If you would like to add any projects, whether they be your own or someone else's, go check out the archive's README file <a href="https://github.com/ProjectPeriodic/ThePeriodicArchive/blob/main/README.md">here.</a>
   <br />
   <br />
   If you want to look into the Discord bot, you can find it <a href="https://github.com/ProjectPeriodic/PeriodicBOT">here.</a>
