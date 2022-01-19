@@ -7,6 +7,9 @@
   <br />
   <br />
   If you want to look into the Discord bot, you can find it <a href="https://github.com/ProjectPeriodic/PeriodicBOT">here.</a>
+  <br />
+  <br />
+  For those curious about the name, it's meant to be a parody on how most Fortnite projects use elements from the periodic table as their project names (Uranium, Osmium, Carbon, etc.)
   </p>
 <!--
 <p align="center" style="margin-bottom: 0px !important;">
